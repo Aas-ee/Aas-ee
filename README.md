@@ -6,9 +6,9 @@
 
 ## 🚀 About Me
 
-- 💻 擅长技术：Java / Spring Boot / Python / MySQL / Redis / RabbitMQ
+- 💻 擅长技术：Java / Spring Boot / Python 
 - 🧠 兴趣方向：AI+高性能平台、LLM 应用开发、Web3 协议实践
-- 🧩 熟悉框架与技术：Spring AI、LangChain4j、ANP 协议、DID 去中心化身份认证
+- 🧩 熟悉框架与技术：Spring AI、LangChain4j
 - 🌱 当前持续关注 LLM 与业务系统的融合落地
 - 🧑‍💻 热衷参与开源项目，乐于分享与合作
 - 🛠️ 正在做的事：
@@ -29,20 +29,6 @@
 
 ---
 
-## 🔧 常用技术栈
-
-| 后端开发 | 数据处理 | 数据库 & 消息队列 | 前端开发 | DevOps & 工具 |
-|----------|----------|------------------|-----------|----------------|
-| Java, Spring Boot | Python, Pandas | MySQL, Redis, RabbitMQ | HTML, CSS, Vue | Git, Docker, Linux |
-
----
-
-## 📫 联系我
-
-- 📮 Email: 1600677504@qq.com  
-- 💼 Blog / 个人网站: [www.aasee.com.cn]  
-
----
 
 
 
